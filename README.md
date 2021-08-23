@@ -1,5 +1,3 @@
 # Final Capstone
 
-This directory contains all of the starter projects for the final capstone. The Vue starter project works with both the Java and .NET backend projects with a single configuration update that you can read about in the README.
-
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+This was our final capstone project for Tech Elevator. Myself and a team of four other students created WLK PHL, an app designed to allow users to navigate the city of Philadelphia and find interesting locations. We implemented search functionality to allow users to search for specific categories or locations, and integrated the Mapbox API for our navigation. Additionally, users who registered with the site could track their check in history as well as unlock awards based on their check ins. 
